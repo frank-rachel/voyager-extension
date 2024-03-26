@@ -17,7 +17,7 @@
        "admin"
      ],
     "require": {
-        "tcg/voyager": "^1.7.0",
+        "frank-rachel/voyager": "^1.7.0",
         "illuminate/support": "~9.0|~10.0|~11.0",
         "ext-json": "*"
     },
